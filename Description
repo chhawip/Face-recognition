@@ -1,0 +1,2 @@
+This code detects face from a live video stream. It also figure out the eyes. I have used the CascadeClassifier class to detect objects
+in a video stream. I will first load a .xml classifier file and then perform the detection. 
